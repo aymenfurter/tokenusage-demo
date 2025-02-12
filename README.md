@@ -1,7 +1,7 @@
 # Token Usage & Context Building Demo
 ![Preview](preview.png)
 
-A demonstration tool for exploring different approaches to building context for Large Language Models (LLMs), with a focus on token usage optimization and context management.
+A demonstration tool for exploring different approaches to building context for Large Language Models (LLMs), with a focus on token usage.
 
 ## Overview
 
